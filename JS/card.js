@@ -133,4 +133,4 @@ userText.appendChild(userName);
 }
 
 alert( "Я оцениваю свою работу на 110 баллов");
-card.html();
+card();
